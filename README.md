@@ -71,11 +71,11 @@
 - 实现自己的分布式调用框架
 ##### 北京汤普森生物医药有限公司 2008.07-2012.05
 -  DNA序列片段错误检测算法、组装算法开发
-### <font color="#CC3380">典型过往项目</font>
+### <span id="important_project"><font color="#CC3380">典型过往项目</font></span>
 
 > 两个阶段： 商业智能、微服务基础建设
 
-#### <span id="important_project"><font color="#CC3370">阶段二：商业智能</font></span>
+#### <font color="#CC3370">阶段二：商业智能</font>
 > 全流程参与： 数据准备、数据供应、数据分析
 
 > 两个指标体系： 数据管理 CRM指标体系
