@@ -1,4 +1,4 @@
-# <font color="#CC338F">冯万才</font>
+# <font color="#CC338F">阿才</font>
 
 ### <font color="#CC3380">纲要</font>
 
@@ -11,7 +11,7 @@
 
 > 211、985，MBA在读
 
-电话：13552478485  wechat：fengwancai
+邮箱：fengwancai@126.com wechat：fengwancai
 
 西南大学（211，985，2004-2008， 本科）
 
